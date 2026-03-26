@@ -69,6 +69,7 @@
 | HeyGen | AI avatar videos | Free tier |
 | Synthesia | AI presenter videos | $30/mo |
 | CapCut | AI video editing | Free |
+| PVID | Free AI video generator aggregating Kling, Sora, Veo | Free (100 credits) |
 
 ## AI Agent Platforms
 | Tool | Description | Pricing |
