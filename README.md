@@ -37,6 +37,7 @@
 | Midjourney | Photorealistic AI image generation | $10/mo |
 | DALL-E 3 | Integrated with ChatGPT | Included |
 | Canva AI | Design with AI assistance | Free tier |
+| [PhotoRestore.ai](https://photorestore.ai) | AI-powered old photo restoration, scratch repair & colorization | Free trial |
 | Gamma | AI-powered presentations | Free tier |
 
 ## Business & Productivity
