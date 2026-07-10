@@ -66,6 +66,7 @@
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | Runway | AI video generation & editing | Free tier |
+| ImagineClip | AI avatar clips and social-ready video generation | Freemium |
 | HeyGen | AI avatar videos | Free tier |
 | Synthesia | AI presenter videos | $30/mo |
 | CapCut | AI video editing | Free |
