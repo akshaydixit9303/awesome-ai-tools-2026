@@ -38,6 +38,7 @@
 | DALL-E 3 | Integrated with ChatGPT | Included |
 | Canva AI | Design with AI assistance | Free tier |
 | Gamma | AI-powered presentations | Free tier |
+| [AIImageChanger.app](https://aiimagechanger.app) | Browser-based AI image editor: change backgrounds, objects, clothing, colors, text, and styles with plain-language prompts | Freemium (10 signup credits; from $29/mo) |
 
 ## Business & Productivity
 | Tool | Description | Pricing |
