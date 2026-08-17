@@ -22,6 +22,7 @@
 | GitHub Copilot | Code completion in IDE | $10/mo |
 | Bolt | AI full-stack app builder | Free tier |
 | Replit Agent | Build apps with natural language | Free tier |
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web and mobile application testing through a CLI, dashboard, and MCP server | Source available; provider costs may apply |
 
 ## Writing & Content
 | Tool | Description | Pricing |
