@@ -69,6 +69,7 @@
 | HeyGen | AI avatar videos | Free tier |
 | Synthesia | AI presenter videos | $30/mo |
 | CapCut | AI video editing | Free |
+| [LiveFaceSwap Desktop](https://livefaceswap.ai/desktop) | Cloud face swapping with virtual-camera output for live calls and streams | Paid; signup trial |
 
 ## AI Agent Platforms
 | Tool | Description | Pricing |
