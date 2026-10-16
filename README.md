@@ -38,6 +38,7 @@
 | DALL-E 3 | Integrated with ChatGPT | Included |
 | Canva AI | Design with AI assistance | Free tier |
 | Gamma | AI-powered presentations | Free tier |
+| [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) | Ficory LLC의 기업급 만화 리더로, 개인에게 일괄·맞춤 번역을 제공하고 스튜디오에 완전한 온라인 Photoshop 스타일 편집기를 제공하며 API를 개인 작업 흐름에 연결합니다. 100개 이상의 지원 언어 및 제품이 지원하는 모든 번역 언어를 제공합니다. | Freemium — 제한된 무료 이용 및 유료 기능 |
 
 ## Business & Productivity
 | Tool | Description | Pricing |
