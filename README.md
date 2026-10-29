@@ -43,6 +43,7 @@
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | **[BizPilot](https://bizpilot.agentnation.in)** | **AI business management for Indian SMBs — GST, invoicing, inventory** | **Free** |
+| [JobEmerge](https://www.jobemerge.work) | Job-fit checks, resume editing and translation, application tracking, and text mock interviews | Free tier; one-time plans |
 | Notion AI | AI-enhanced workspace | $10/mo |
 | Otter.ai | Meeting transcription | Free tier |
 | Reclaim | AI calendar management | Free tier |
