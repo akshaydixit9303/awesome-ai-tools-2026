@@ -12,6 +12,7 @@
 - [Research & Analysis](#research--analysis)
 - [Voice & Audio](#voice--audio)
 - [Video](#video)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [AI Agent Platforms](#ai-agent-platforms)
 
 ## Coding & Development
